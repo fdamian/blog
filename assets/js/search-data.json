@@ -13,10 +13,10 @@
   
     
         ,"post1": {
-            "title": "Prueba",
+            "title": "Post de Prueba",
             "content": "Post de prueba . Prueba #1 .",
-            "url": "https://fdamian.github.io/blog/2020/07/17/Prueba.html",
-            "relUrl": "/2020/07/17/Prueba.html",
+            "url": "https://fdamian.github.io/blog/markdown/2020/07/17/Prueba.html",
+            "relUrl": "/markdown/2020/07/17/Prueba.html",
             "date": " • Jul 17, 2020"
         }
         
