@@ -8,7 +8,7 @@ permalink: /about/
 
 A través de este blog pretendo compartir conocimiento sobre inversiones, proyectos o algunos códigos en R o Python que podrían ser de interés para algunas personas.
 
-Pueden seguirme en [twitter](https://twitter.com/_FDamian_/) format.
+Pueden seguirme en [twitter](https://twitter.com/_FDamian_/)format.
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
