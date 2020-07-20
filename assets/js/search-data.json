@@ -50,8 +50,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "Sobre mí...",
+          "content": "¡Hola! Mi nombre es Damián, soy un apasionado de la inversión, las finanzas y un poco de programación. A través de este blog pretendo compartir conocimiento sobre inversiones, proyectos o algunos códigos en R o Python que podrían ser de interés para algunas personas. . This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://fdamian.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
